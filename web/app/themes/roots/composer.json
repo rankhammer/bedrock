@@ -1,0 +1,28 @@
+{
+    "name" : "rankhammer/roots",
+    "description" : "Starter Wordpress Theme",
+    "type" : "wordpress-theme",
+    "keywords" : [ "wordpress" ],
+    "license" : "MIT",
+    "authors": [
+		{
+		  "name": "Scott Walkinshaw",
+		  "email": "scott.walkinshaw@gmail.com",
+		  "homepage": "https://github.com/swalkinshaw"
+		},
+		{
+		  "name": "Ben Word",
+		  "email": "ben@benword.com",
+		  "homepage": "https://github.com/retlehs"
+		}
+	],
+    "require" : {
+		"composer/installers": "v1.0.12",
+        "php": ">=5.4"
+    },
+    "homepage" : "http://roots.io",
+    "support": {
+        "issues": "https://github.com/roots/bedrock/issues",
+        "source": "https://github.com/rankhammer/roots"
+    }
+}
