@@ -50,7 +50,7 @@
     "vlucas/phpdotenv": "1.0.9",
 	"rankhammer/roots": "dev-master",
 	"components/font-awesome": "4.2.*@dev",
-	"roots/soil": "*",
+	"roots/soil": "3.0.2",
 	"wpackagist-plugin/wp-smushit": "*",
 	"wpackagist-plugin/wordpress-seo": "*"
   },

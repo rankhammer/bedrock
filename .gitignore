@@ -12,6 +12,7 @@ sql-dump-*.sql
 !.env.example
 
 # Application
+composer.lock
 web/app/plugins
 !web/app/plugins/.gitkeep
 web/app/mu-plugins
