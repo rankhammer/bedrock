@@ -45,14 +45,14 @@
   ],
   "require": {
     "php": ">=5.4",
-    "johnpbloch/wordpress": "4.2",
+    "johnpbloch/wordpress": "4.2.2",
     "composer/installers": "v1.0.12",
     "vlucas/phpdotenv": "1.0.9",
-	"rankhammer/roots": "dev-master",
-	"components/font-awesome": "4.2.*@dev",
-	"roots/soil": "3.0.2",
-	"wpackagist-plugin/ewww-image-optimizer": "*",
-	"wpackagist-plugin/wordpress-seo": "*"
+	  "rankhammer/roots": "dev-master",
+    "components/font-awesome": "4.2.*@dev",
+    "roots/soil": "3.0.2",
+    "wpackagist-plugin/ewww-image-optimizer": "*",
+    "wpackagist-plugin/wordpress-seo": "*"
   },
   "extra": {
     "installer-paths": {
